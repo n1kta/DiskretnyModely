@@ -1,0 +1,15 @@
+C:\Users\nikit\source\repos\DiskretnyModeliLabs\DiskretnyModeliLabs\bin\Debug\net6.0\DiskretnyModeliLabs.exe
+C:\Users\nikit\source\repos\DiskretnyModeliLabs\DiskretnyModeliLabs\bin\Debug\net6.0\DiskretnyModeliLabs.deps.json
+C:\Users\nikit\source\repos\DiskretnyModeliLabs\DiskretnyModeliLabs\bin\Debug\net6.0\DiskretnyModeliLabs.runtimeconfig.json
+C:\Users\nikit\source\repos\DiskretnyModeliLabs\DiskretnyModeliLabs\bin\Debug\net6.0\DiskretnyModeliLabs.dll
+C:\Users\nikit\source\repos\DiskretnyModeliLabs\DiskretnyModeliLabs\bin\Debug\net6.0\ref\DiskretnyModeliLabs.dll
+C:\Users\nikit\source\repos\DiskretnyModeliLabs\DiskretnyModeliLabs\bin\Debug\net6.0\DiskretnyModeliLabs.pdb
+C:\Users\nikit\source\repos\DiskretnyModeliLabs\DiskretnyModeliLabs\obj\Debug\net6.0\DiskretnyModeliLabs.csproj.AssemblyReference.cache
+C:\Users\nikit\source\repos\DiskretnyModeliLabs\DiskretnyModeliLabs\obj\Debug\net6.0\DiskretnyModeliLabs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikit\source\repos\DiskretnyModeliLabs\DiskretnyModeliLabs\obj\Debug\net6.0\DiskretnyModeliLabs.AssemblyInfoInputs.cache
+C:\Users\nikit\source\repos\DiskretnyModeliLabs\DiskretnyModeliLabs\obj\Debug\net6.0\DiskretnyModeliLabs.AssemblyInfo.cs
+C:\Users\nikit\source\repos\DiskretnyModeliLabs\DiskretnyModeliLabs\obj\Debug\net6.0\DiskretnyModeliLabs.csproj.CoreCompileInputs.cache
+C:\Users\nikit\source\repos\DiskretnyModeliLabs\DiskretnyModeliLabs\obj\Debug\net6.0\DiskretnyModeliLabs.dll
+C:\Users\nikit\source\repos\DiskretnyModeliLabs\DiskretnyModeliLabs\obj\Debug\net6.0\ref\DiskretnyModeliLabs.dll
+C:\Users\nikit\source\repos\DiskretnyModeliLabs\DiskretnyModeliLabs\obj\Debug\net6.0\DiskretnyModeliLabs.pdb
+C:\Users\nikit\source\repos\DiskretnyModeliLabs\DiskretnyModeliLabs\obj\Debug\net6.0\DiskretnyModeliLabs.genruntimeconfig.cache
