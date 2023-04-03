@@ -11,7 +11,7 @@
             Invoke(headers, nodes);
         }
 
-        private static void Invoke(char[] headers, List<List<Node>> nodes)
+        private static void Invoke(char[] headers, List<List<Edge>> nodes)
         {
             var count = 0;
             while (count < nodes.Count - 1)
@@ -43,16 +43,16 @@
             }
         }
 
-        private static List<List<Node>> CreateGraph(int[][] array, char[] headers)
+        private static List<List<Edge>> CreateGraph(int[][] array, char[] headers)
         {
-            var nodes = new List<List<Node>>();
+            var nodes = new List<List<Edge>>();
 
             for (int i = 0; i < array.Length; i++)
             {
-                nodes.Add(new List<Node>());
+                nodes.Add(new List<Edge>());
 
                 for (int j = 0; j < array[i].Length; j++)
-                    nodes[i].Add(new Node(array[i][j], $"{headers[i]}{headers[j]}", j > i));
+                    nodes[i].Add(new Edge(array[i][j], $"{headers[i]}{headers[j]}", j > i));
             }
 
             nodes.Display(headers);

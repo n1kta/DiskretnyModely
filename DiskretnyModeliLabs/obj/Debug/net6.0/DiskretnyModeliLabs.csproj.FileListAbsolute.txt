@@ -13,3 +13,5 @@ C:\Users\nikit\source\repos\DiskretnyModeliLabs\DiskretnyModeliLabs\obj\Debug\ne
 C:\Users\nikit\source\repos\DiskretnyModeliLabs\DiskretnyModeliLabs\obj\Debug\net6.0\ref\DiskretnyModeliLabs.dll
 C:\Users\nikit\source\repos\DiskretnyModeliLabs\DiskretnyModeliLabs\obj\Debug\net6.0\DiskretnyModeliLabs.pdb
 C:\Users\nikit\source\repos\DiskretnyModeliLabs\DiskretnyModeliLabs\obj\Debug\net6.0\DiskretnyModeliLabs.genruntimeconfig.cache
+C:\Users\nikit\source\repos\DiskretnyModeliLabs\DiskretnyModeliLabs\bin\Debug\net6.0\Combinatorics.dll
+C:\Users\nikit\source\repos\DiskretnyModeliLabs\DiskretnyModeliLabs\obj\Debug\net6.0\DiskretnyModeliLabs.csproj.CopyComplete

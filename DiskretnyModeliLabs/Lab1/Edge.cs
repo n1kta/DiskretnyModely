@@ -1,21 +1,21 @@
 ﻿namespace DiskretnyModeliLabs.Lab1
 {
-    public class Node
+    public class Edge
     {
-        public readonly int Weight;
-        public readonly string Name;
+        public int Weight { get; set; }
+        public string Name { get; set; }
 
         public bool Selected { get; set; } = false;
         public readonly bool Searchable;
 
-        public Node(int weight, string name, bool searchable)
+        public Edge(int weight, string name, bool searchable)
         {
             Weight = weight;
             Name = name;
             Searchable = searchable;
         }
 
-        public bool IsNeeded(List<Node> usedNodes)
+        public bool IsNeeded(List<Edge> usedNodes)
         {
             var names = usedNodes.Select(x => x.Name).ToList();
             names.Add(Name);
@@ -103,7 +103,7 @@
 
     public static class NodeExtension
     {
-        public static List<Node> GetSelected(this List<List<Node>> array)
+        public static List<Edge> GetSelected(this List<List<Edge>> array)
         {
             return array
                 .SelectMany(row => row.Select(x => x))

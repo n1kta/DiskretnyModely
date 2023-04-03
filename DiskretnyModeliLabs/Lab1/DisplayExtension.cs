@@ -2,18 +2,18 @@
 {
     public static class DisplayExtension
     {
-        public static void Display(this List<Node> array)
+        public static void Display(this List<Edge> array)
         {
             array.ForEach(x => Console.WriteLine($"{x.Name} - {x.Weight}"));
             Console.WriteLine();
         }
 
-        public static void Display(this List<List<Node>> array)
+        public static void Display(this List<List<Edge>> array)
         {
             array.Display(new char[0]);
         }
 
-        public static void Display(this List<List<Node>> array, char[] headers)
+        public static void Display(this List<List<Edge>> array, char[] headers)
         {
             if (headers.Length != 0 && headers.Length != array.Count)
                 throw new Exception("Not valid length of headers");

@@ -9,6 +9,11 @@
 
   <ItemGroup>
     <Folder Include="Lab1\Data\" />
+    <Folder Include="Lab2\Data\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Combinatorics" Version="2.0.0" />
   </ItemGroup>
 
 </Project>
