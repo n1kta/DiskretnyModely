@@ -10,6 +10,7 @@
   <ItemGroup>
     <Folder Include="Lab1\Data\" />
     <Folder Include="Lab2\Data\" />
+    <Folder Include="Lab3\Data\" />
   </ItemGroup>
 
   <ItemGroup>
